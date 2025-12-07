@@ -55,7 +55,7 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
 
   <p style="text-align: justify"><strong><span style="font-size:11pt;"></span>MetRex: A Benchmark for Verilog Code Metric Reasoning Using LLMs</strong><br />
   <ins>M. Abdelatty</ins>,J. Ma, S. Reda <br />
-  <strong>IEEE Asia and South Pacific Design Automation Conference (ASP-DAC) 2025</strong> | <a href="https://github.com/scale-lab/MetRex?tab=readme-ov-file">GitHub</a> | <a href="docs/metrex.pdf">Slides</a> | <a href="">Paper</a></p>
+  <strong>IEEE Asia and South Pacific Design Automation Conference (ASP-DAC) 2025</strong> | <a href="https://github.com/scale-lab/MetRex?tab=readme-ov-file">GitHub</a> | <a href="docs/MetRex.pdf">Slides</a> | <a href="https://dl.acm.org/doi/10.1145/3658617.3697625">Paper</a></p>
   
   <p style="text-align: justify"><strong><span style="font-size:11pt;"></span>Electrical Capacitance Tomography of Cell Cultures on a CMOS Microelectrode Array</strong><br />
   <ins>M. Abdelatty</ins>, J. T. Incandela, K. Hu, P. Joshi, J. W. Larkin, S. Reda, and J. K. Rosenstein <br />
