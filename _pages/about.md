@@ -47,7 +47,7 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
  <p></p>
   <p style="text-align: justify">
   <strong><span style="font-size:11pt;"></span>ChipXplore: Natural Language Exploration of Hardware Designs and Libraries</strong>
-  <a href="https://engineering.brown.edu/news/2025-07-11/manar-abdelatty-wins-best-paper-award" style="color: red; font-weight: bold; font-size: 9pt; text-decoration: none;">(🏆 Best Paper Award)</a><br />
+  <a href="https://engineering.brown.edu/news/2025-07-11/manar-abdelatty-wins-best-paper-award" style="color: red; font-weight: bold; text-decoration: none;">(🏆 Best Paper Award)</a><br />
   <ins>M. Abdelatty</ins>, J. Rosenstein, S. Reda <br />
   <strong>IEEE International Conference on LLM-Aided Design (LAD)</strong> | <a href="https://github.com/scale-lab/ChipXplore">GitHub</a> | <a href="docs/chipxplore.pdf">Slides</a> |
   <a href="https://arxiv.org/abs/2407.12749">Paper</a>
