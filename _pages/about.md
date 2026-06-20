@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Computer Engineering PhD candidate at <a href="https://scale-lab.github.io/">SCALE</a> lab at Brown University, advised by Professor <a href="https://vivo.brown.edu/display/sreda">Sherief Reda </a> and Professor <a href="https://vivo.brown.edu/display/jkrosens">Jacob Rosenstein</a>. I am interested in leveraging AI for accelerating hardware design workflows. My research focuses on integrating AI across the entire lifecycle of microelectroninc systems from intial design conceptuatialization to applications, with the aim of driving a faster and an insightful hardware design process.
+I am a fifth year Computer Engineering PhD candidate at <a href="https://scale-lab.github.io/">SCALE</a> lab at Brown University, advised by Professor <a href="https://vivo.brown.edu/display/sreda">Sherief Reda </a> and Professor <a href="https://vivo.brown.edu/display/jkrosens">Jacob Rosenstein</a>. I am interested in leveraging AI for accelerating hardware design workflows. My research focuses on integrating AI across the entire lifecycle of microelectroninc systems from intial design conceptuatialization to applications, with the aim of driving a faster and an insightful hardware design process.
 
 Before joining Brown, I worked as an EDA engineer at <a href="https://efabless.com/">efabless</a>, where I worked on developing open-source ASIC and contributed to the <a href="https://github.com/The-OpenROAD-Project/OpenLane">OpenLane</a>, and <a href="https://github.com/efabless/caravel">Caravel</a> projects. 
 
@@ -36,11 +36,19 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
 
 <h2>Publications</h2>
 
+<p></p>
+  <p style="text-align: justify">
+  <strong><span style="font-size:11pt;"></span>CovR: Coverage-Aware Hardware Verification via Reasoning-Guided Reinforcment Learning</strong><br />
+  <ins>M. Abdelatty</ins>, M. Nouh, J. Rosenstein, S. Reda <br />
+  <strong>Preprint</strong>  | 
+  <a href="">Paper</a>
+  </p>
+  
   <p></p>
   <p style="text-align: justify">
   <strong><span style="font-size:11pt;"></span>Pluto: A Benchmark for Evaluating Efficiency of LLM-generated Hardware Code</strong><br />
-  <ins>M. Abdelatty*</ins>, M. Nouh*, J. Rosenstein, S. Reda <br />
-  <strong>Preprint</strong>  | 
+  <ins>M. Abdelatty</ins>, M. Nouh, J. Rosenstein, S. Reda <br />
+  <strong>IEEE International Conference on LLM-Aided Design (LAD)</strong>  | 
   <a href="https://arxiv.org/abs/2510.14756">Paper</a>
   </p>
 
@@ -75,16 +83,12 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
 
 
  <h2>Work Experience</h2>
-
- <div>
-      <h3 style="margin-bottom: 5px;"><strong> Hardware Technology Intern </strong> <span style="float:right; font-size: 0.9em;">June 2025 - August 2025</span></h3>
-      <p style="text-align: justify; margin-top: 0;">Apple<span style="float:right; font-size: 0.9em;"><em>Cupertino, CA</em></span></p>
+   <div>
+      <h3 style="margin-bottom: 5px;"><strong> Hardware Technology Intern </strong> <span style="float:right; font-size: 0.9em;">June 2026 - Present</span></h3>
+      <p style="text-align: justify; margin-top: 0;">Apple <span style="float:right; font-size: 0.9em;"><em>Cupertino, CA</em></span></p>
       <ul style="margin-top: 0; padding-left: 20px;">
-          <li>Developed an LLM-assisted library analysis workflow for liberty data and release notes.</li>
-          <li>Built a multi-agent framework for Timing ECO recommendations and timing report analysis. </li>
       </ul>
   </div>
-  
 
   <div>
     <h3 style="margin-bottom: 5px;"><strong>Research Assistant at <a href="https://scale-lab.github.io/">SCALE Lab</a></strong> <span style="float:right; font-size: 0.9em;">Jan 2022 - Present</span></h3>
@@ -93,6 +97,15 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
         <li>Conducting research on applying large language models for accelerating hardware design process.</li>
         <li>Collaborated with interdisciplinary teams on integrating machine learning for data enhancement of microelectronic circuits.</li>
     </ul>
+  </div>
+
+   <div>
+      <h3 style="margin-bottom: 5px;"><strong> Hardware Technology Intern </strong> <span style="float:right; font-size: 0.9em;">June 2025 - August 2025</span></h3>
+      <p style="text-align: justify; margin-top: 0;">Apple <span style="float:right; font-size: 0.9em;"><em>Cupertino, CA</em></span></p>
+      <ul style="margin-top: 0; padding-left: 20px;">
+          <li>Developed an LLM-assisted library analysis workflow for liberty data and release notes.</li>
+          <li>Built a multi-agent framework for Timing ECO recommendations and timing report analysis. </li>
+      </ul>
   </div>
   
   <div>
@@ -116,6 +129,16 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
   </div>
 
  <h2>Teaching Experience</h2>
+<div>
+    <h3 style="margin-bottom: 0;"><strong>Teaching Assistant</strong> <span style="float:right; font-size: 0.9em;">Spring 2026</span></h3>
+    <p style="margin-top: 0; margin-bottom: 2px; font-style: italic;">ENGN1640 Design of Computing Systems </p>
+    <p style="text-align: justify; margin-top: 0;">Brown University <span style="float:right; font-size: 0.9em;"><em>Providence, RI</em></span></p>
+    <ul style="margin-top: 0; padding-left: 20px;">
+        <li>Responsible for grading assignments.</li>
+        <li>Led two full lectures covering instruction set architecture topics</li>
+    </ul>
+</div>
+
   <div>
     <h3 style="margin-bottom: 0;"><strong>Graduate Teaching Assistant</strong> <span style="float:right; font-size: 0.9em;">Spring 2021</span></h3>
     <p style="margin-top: 0; margin-bottom: 2px; font-style: italic;">CSCE 432/4301 Embedded Systems</p>
