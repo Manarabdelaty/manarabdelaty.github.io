@@ -39,7 +39,7 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
 <p></p>
   <p style="text-align: justify">
   <strong><span style="font-size:11pt;"></span>CovR: Coverage-Aware Hardware Verification via Reasoning-Guided Reinforcment Learning</strong><br />
-  <ins>M. Abdelatty</ins>, M. Nouh, J. Rosenstein, S. Reda <br />
+  <ins>M. Abdelatty</ins>, M. Nouh, S. Reda <br />
   <strong>Preprint</strong>  | 
   <a href="">Paper</a>
   </p>
