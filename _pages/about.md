@@ -40,7 +40,7 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
   <p style="text-align: justify">
   <strong><span style="font-size:11pt;"></span>CovR: Coverage-Aware Hardware Verification via Reasoning-Guided Reinforcment Learning</strong><br />
   <ins>M. Abdelatty</ins>, M. Nouh, S. Reda <br />
-  <strong>Preprint</strong>  | 
+  <strong>ACM/IEEE International Symposium on Machine Learning for CAD 2026</strong>  | 
   <a href="">Paper</a>
   </p>
   
@@ -48,7 +48,7 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
   <p style="text-align: justify">
   <strong><span style="font-size:11pt;"></span>Pluto: A Benchmark for Evaluating Efficiency of LLM-generated Hardware Code</strong><br />
   <ins>M. Abdelatty</ins>, M. Nouh, J. Rosenstein, S. Reda <br />
-  <strong>IEEE International Conference on LLM-Aided Design (LAD)</strong>  | 
+  <strong>IEEE International Conference on LLM-Aided Design (LAD) 2026</strong>  | 
   <a href="https://arxiv.org/abs/2510.14756">Paper</a>
   </p>
 
@@ -57,7 +57,7 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
   <strong><span style="font-size:11pt;"></span>ChipXplore: Natural Language Exploration of Hardware Designs and Libraries</strong><br />
   <a href="https://engineering.brown.edu/news/2025-07-11/manar-abdelatty-wins-best-paper-award" style="color: blue; font-weight: bold; text-decoration: none;">(🏆 Best Paper Award)</a><br />
   <ins>M. Abdelatty</ins>, J. Rosenstein, S. Reda <br />
-  <strong>IEEE International Conference on LLM-Aided Design (LAD)</strong> | <a href="https://github.com/scale-lab/ChipXplore">GitHub</a> | <a href="docs/ChipXplore.pdf">Slides</a> |
+  <strong>IEEE International Conference on LLM-Aided Design (LAD) 2025</strong> | <a href="https://github.com/scale-lab/ChipXplore">GitHub</a> | <a href="docs/ChipXplore.pdf">Slides</a> |
   <a href="https://arxiv.org/abs/2407.12749">Paper</a>
   </p>
 
