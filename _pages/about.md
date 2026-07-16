@@ -97,7 +97,7 @@ Springer, Book Chapter<br>
 </td>
 
 <td style="border: none; width: 22%; text-align: center;">
-<img src="images/generative_ai_book_cover.jpg"
+<img src="images/generative_ai_book_cover.png"
      alt="Generative AI for Next Generation Computer Design"
      width="140">
 </td>
