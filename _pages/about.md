@@ -40,7 +40,7 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
   <p style="text-align: justify">
   <strong><span style="font-size:11pt;"></span>CovR: Coverage-Aware Hardware Verification via Reasoning-Guided Reinforcment Learning</strong><br />
   <ins>M. Abdelatty</ins>, M. Nouh, S. Reda <br />
-  <strong>ACM/IEEE International Symposium on Machine Learning for CAD 2026</strong>  | 
+  <strong>ACM/IEEE International Symposium on Machine Learning for CAD (MLCAD) 2026 </strong>  | 
   <a href="">Paper</a>
   </p>
   
@@ -82,6 +82,28 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
   <strong></strong> Workshop on Open-Source EDA Technology (WOSET), 2019 | <a href="https://github.com/AUCOHL/Fault">Github</a> | <a href="docs/Fault_slides.pdf">Slides</a> | <a href="https://woset-workshop.github.io/PDFs/2019/a13.pdf">Paper</a></p>
 
 
+<h2>Book Chapters</h2>
+
+<table style="border: none;">
+<tr style="border: none;">
+<td style="border: none; width: 78%; vertical-align: top;">
+
+<strong>ChipXplore: Natural Language Exploration of Hardware Designs and Libraries</strong><br>
+<ins>M. Abdelatty</ins>, J. K. Rosenstein, S. Reda<br>
+<strong>In:</strong> <em>Generative AI for Next Generation Computer Design</em><br>
+Springer, Book Chapter<br>
+<strong>To appear, October 2026</strong>
+
+</td>
+
+<td style="border: none; width: 22%; text-align: center;">
+<img src="images/generative_ai_book_cover.jpg"
+     alt="Generative AI for Next Generation Computer Design"
+     width="140">
+</td>
+
+</tr>
+</table>
  <h2>Work Experience</h2>
    <div>
       <h3 style="margin-bottom: 5px;"><strong> Hardware Technology Intern </strong> <span style="float:right; font-size: 0.9em;">June 2026 - Present</span></h3>
