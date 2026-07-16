@@ -86,7 +86,7 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
 
 <table style="border: none;">
 <tr style="border: none;">
-<td style="border: none; width: 78%; vertical-align: top;">
+<td style="border: none; width: 95%; vertical-align: top;">
 
 <strong>ChipXplore: Natural Language Exploration of Hardware Designs and Libraries</strong><br>
 <ins>M. Abdelatty</ins>, J. K. Rosenstein, S. Reda<br>
@@ -96,7 +96,7 @@ Springer, Book Chapter<br>
 
 </td>
 
-<td style="border: none; width: 22%; text-align: center;">
+<td style="border: none; width: 5%; text-align: center;">
 <img src="images/generative_ai_book_cover.png"
      alt="Generative AI for Next Generation Computer Design"
      width="140">
