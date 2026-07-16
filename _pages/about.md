@@ -109,6 +109,7 @@ Springer, Book Chapter<br>
       <h3 style="margin-bottom: 5px;"><strong> Hardware Technology Intern </strong> <span style="float:right; font-size: 0.9em;">June 2026 - Present</span></h3>
       <p style="text-align: justify; margin-top: 0;">Apple <span style="float:right; font-size: 0.9em;"><em>Cupertino, CA</em></span></p>
       <ul style="margin-top: 0; padding-left: 20px;">
+        <li> Developing ML-assisted techniques for accelerating liberty generaiton workflows.  
       </ul>
   </div>
 
@@ -194,5 +195,22 @@ Springer, Book Chapter<br>
         <li>Held weekly office hours to assist students.</li>
     </ul>
 </div>
+
+<h2>Invited Talks</h2>
+
+<p style="text-align: justify">
+<strong>Beyond Verilog Code Generation: Teaching LLMs to Reason About Hardware Quality</strong><br>
+Apple Munich Tech Talk &middot; Apple, Munich, Germany &middot; <strong>March 2026</strong>
+</p>
+
+<p style="text-align: justify">
+<strong>Natural Language Exploration of Hardware Designs and Libraries</strong><br>
+Apple SCV GenAI Talk &middot; Apple, Santa Clara Valley, CA, USA &middot; <strong>July 2025</strong>
+</p>
+
+<p style="text-align: justify">
+<strong>Fault: Open Source EDA's Missing DFT Toolchain</strong><br>
+<a href="https://sites.google.com/aucegypt.edu/basics2asics">Basics to ASICs: The Open Source Way</a> &middot; The American University in Cairo (AUC)
+</p>
 
 
