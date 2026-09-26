@@ -40,8 +40,8 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
   <p style="text-align: justify">
   <strong><span style="font-size:11pt;"></span>CovR: Coverage-Aware Hardware Verification via Reasoning-Guided Reinforcment Learning</strong><br />
   <ins>M. Abdelatty</ins>, M. Nouh, S. Reda <br />
-  <strong>ACM/IEEE International Symposium on Machine Learning for CAD (MLCAD) 2026 </strong>  | 
-  <a href="docs/CovR'26.pdf">Slides</a>  | <a href="https://arxiv.org/pdf/2609.19189">Paper</a>
+  <strong>ACM/IEEE International Symposium on Machine Learning for CAD (MLCAD) 2026 </strong> <br/>
+    <a href="https://github.com/scale-lab/CovR">GitHub</a>  | <a href="docs/CovR'26.pdf">Slides</a>  | <a href="https://arxiv.org/pdf/2609.19189">Paper</a>
   </p>
   
   <p></p>
@@ -49,8 +49,8 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
   <strong><span style="font-size:11pt;"></span>Pluto: A Benchmark for Evaluating Efficiency of LLM-generated Hardware Code</strong><br />
   <a href="" style="color: blue; font-weight: bold; text-decoration: none;">(🏆 Best Paper Award)</a><br />
   <ins>M. Abdelatty</ins>, M. Nouh, J. Rosenstein, S. Reda <br />
-  <strong>IEEE International Conference on LLM-Aided Design (LAD) 2026</strong>  | 
-  <a href="">Slides</a> | <a href="https://arxiv.org/abs/2510.14756">Paper</a>
+  <strong>IEEE International Conference on LLM-Aided Design (LAD) 2026</strong> <br/>
+    <a href="https://github.com/scale-lab/Pluto">GitHub</a> | <a href="">Slides</a> | <a href="https://arxiv.org/abs/2510.14756">Paper</a>
   </p>
 
  <p></p>
@@ -58,29 +58,29 @@ My research focuses on leveraging AI for accelerating and driving insights in ha
   <strong><span style="font-size:11pt;"></span>ChipXplore: Natural Language Exploration of Hardware Designs and Libraries</strong><br />
   <a href="https://engineering.brown.edu/news/2025-07-11/manar-abdelatty-wins-best-paper-award" style="color: blue; font-weight: bold; text-decoration: none;">(🏆 Best Paper Award)</a><br />
   <ins>M. Abdelatty</ins>, J. Rosenstein, S. Reda <br />
-  <strong>IEEE International Conference on LLM-Aided Design (LAD) 2025</strong> | <a href="https://github.com/scale-lab/ChipXplore">GitHub</a> | <a href="docs/ChipXplore.pdf">Slides</a> |
+  <strong>IEEE International Conference on LLM-Aided Design (LAD) 2025</strong>  <br/> <a href="https://github.com/scale-lab/ChipXplore">GitHub</a> | <a href="docs/ChipXplore.pdf">Slides</a> |
   <a href="https://arxiv.org/abs/2407.12749">Paper</a>
   </p>
 
   <p style="text-align: justify"><strong><span style="font-size:11pt;"></span>MetRex: A Benchmark for Verilog Code Metric Reasoning Using LLMs</strong><br />
   <ins>M. Abdelatty</ins>,J. Ma, S. Reda <br />
-  <strong>IEEE Asia and South Pacific Design Automation Conference (ASP-DAC) 2025</strong> | <a href="https://github.com/scale-lab/MetRex?tab=readme-ov-file">GitHub</a> | <a href="docs/MetRex.pdf">Slides</a> | <a href="https://dl.acm.org/doi/10.1145/3658617.3697625">Paper</a></p>
+  <strong>IEEE Asia and South Pacific Design Automation Conference (ASP-DAC) 2025</strong>  <br/> <a href="https://github.com/scale-lab/MetRex?tab=readme-ov-file">GitHub</a> | <a href="docs/MetRex.pdf">Slides</a> | <a href="https://dl.acm.org/doi/10.1145/3658617.3697625">Paper</a></p>
   
   <p style="text-align: justify"><strong><span style="font-size:11pt;"></span>Electrical Capacitance Tomography of Cell Cultures on a CMOS Microelectrode Array</strong><br />
   <ins>M. Abdelatty</ins>, J. T. Incandela, K. Hu, P. Joshi, J. W. Larkin, S. Reda, and J. K. Rosenstein <br />
-  <strong>IEEE Transactions on Biomedical Circuits and Systems. (TBioCAS),2024</strong> | <a href="https://ieeexplore.ieee.org/abstract/document/10559749">Paper</a></p>
+  <strong>IEEE Transactions on Biomedical Circuits and Systems. (TBioCAS),2024</strong>  <br/> <a href="https://ieeexplore.ieee.org/abstract/document/10559749">Paper</a></p>
   
   <p style="text-align: justify"><strong><span style="font-size:11pt;"></span>Microscale 3-D Capacitance Tomography with a CMOS Sensor Array</strong><br />
   <ins>M. Abdelatty</ins>, J. T. Incandela, K. Hu, J. W. Larkin, S. Reda, and J. K. Rosenstein <br />
-  <strong>IEEE Biomedical Circuits and Systems (BioCAS), 2023.</strong> | <a href="docs/biocas_slides.pdf">Slides</a> | <a href="https://ieeexplore.ieee.org/abstract/document/10559749">Paper</a></p>
+  <strong>IEEE Biomedical Circuits and Systems (BioCAS), 2023.</strong>  <br/> <a href="docs/biocas_slides.pdf">Slides</a> | <a href="https://ieeexplore.ieee.org/abstract/document/10559749">Paper</a></p>
   
   <p style="text-align: justify"><strong><span style="font-size:11pt;"></span>Fault: Open Source EDA's Missing DFT Toolchain</strong><br />
   <ins>M. Abdelatty</ins>, M. Gaber, and M. Shalan <br />
-  <strong> IEEE Design & Test</strong> | <a href="https://github.com/AUCOHL/Fault">Github</a> | <a href="docs/Fault_slides.pdf">Slides</a> | <a href="https://ieeexplore.ieee.org/document/9324799">Paper</a></p>
+  <strong> IEEE Design & Test</strong>  <br/> <a href="https://github.com/AUCOHL/Fault">Github</a> | <a href="docs/Fault_slides.pdf">Slides</a> | <a href="https://ieeexplore.ieee.org/document/9324799">Paper</a></p>
           
   <p style="text-align: justify"><strong><span style="font-size:11pt;"></span>Fault, an Open Source DFT Toolchain</strong><br />
   M. Gaber, <ins>M. Abdelatty</ins> and M. Shalan <br />
-  <strong></strong> Workshop on Open-Source EDA Technology (WOSET), 2019 | <a href="https://github.com/AUCOHL/Fault">Github</a> | <a href="docs/Fault_slides.pdf">Slides</a> | <a href="https://woset-workshop.github.io/PDFs/2019/a13.pdf">Paper</a></p>
+  <strong></strong> Workshop on Open-Source EDA Technology (WOSET), 2019  <br/> <a href="https://github.com/AUCOHL/Fault">Github</a> | <a href="docs/Fault_slides.pdf">Slides</a> | <a href="https://woset-workshop.github.io/PDFs/2019/a13.pdf">Paper</a></p>
 
 
 <h2>Book Chapters</h2>
@@ -110,7 +110,7 @@ Springer, Book Chapter<br>
       <h3 style="margin-bottom: 5px;"><strong> Hardware Technology Intern </strong> <span style="float:right; font-size: 0.9em;">June 2026 - Present</span></h3>
       <p style="text-align: justify; margin-top: 0;">Apple <span style="float:right; font-size: 0.9em;"><em>Cupertino, CA</em></span></p>
       <ul style="margin-top: 0; padding-left: 20px;">
-        <li> Developing ML-assisted techniques for accelerating liberty generaiton workflows.  
+        <li> Developing ML-assisted techniques for accelerating liberty generaiton workflows.</li>
       </ul>
   </div>
 
@@ -211,7 +211,7 @@ Apple SCV GenAI Talk &middot; Apple, Santa Clara Valley, CA, USA &middot; <stron
 
 <p style="text-align: justify">
 <strong>Fault: Open Source EDA's Missing DFT Toolchain</strong><br>
-<a href="https://sites.google.com/aucegypt.edu/basics2asics">Basics to ASICs: The Open Source Way</a> &middot; The American University in Cairo (AUC)
+<a href="https://sites.google.com/aucegypt.edu/basics2asics">Basics to ASICs: The Open Source Way</a> &middot; The American University in Cairo (AUC) <strong>August 2022</strong>
 </p>
 
 
